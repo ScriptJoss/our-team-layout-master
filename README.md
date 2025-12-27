@@ -1,4 +1,4 @@
-<h1 align="center">{Our team layout master} | devChallenges</h1>
+<h1 align="center">Our team layout master | devChallenges</h1>
 
 <div align="center">
    Solution for a challenge <a href="https://devchallenges.io/challenge/meet-the-team-section-challenge" target="_blank">Meet the Team Section</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.

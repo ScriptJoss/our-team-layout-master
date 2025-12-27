@@ -27,7 +27,7 @@ body {
 /* Main section */
 
 .main {
-    width: clamp(var(--min-width), 100%, var(--max-width));
+    width: clamp(var(--min-width), 80%, var(--max-width));
     min-height: 80vh;
     border-radius: 1.6rem;
     display: grid;

@@ -28,7 +28,7 @@ body {
 
 .main {
     width: clamp(var(--min-width), 100%, var(--max-width));
-    min-height: 70vh;
+    min-height: 80vh;
     border-radius: 1.6rem;
     display: grid;
     grid-template-columns: 1fr repeat(3, 1fr);

@@ -1,59 +1,75 @@
-# Our Team Layout
+<h1 align="center">{Our team layout master} | devChallenges</h1>
 
-Proyecto responsive que recrea una sección "Meet the Team" usando HTML y CSS.
+<div align="center">
+   Solution for a challenge <a href="https://devchallenges.io/challenge/meet-the-team-section-challenge" target="_blank">Meet the Team Section</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
+</div>
 
-## Descripción
+<div align="center">
+  <h3>
+    <a href="{https://our-team-layout-master.vercel.app}">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="{https://devchallenges.io/solution/62444}">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/challenge/meet-the-team-section-challenge">
+      Challenge
+    </a>
+  </h3>
+</div>
+<!-- TABLE OF CONTENTS -->
 
-Este repositorio contiene una maquetación responsiva basada en un reto de diseño. Contiene una grilla CSS para distribuir los perfiles del equipo, imágenes en `resources/` y adaptaciones en diferentes puntos de quiebre.
+## Table of Contents
 
-## Ver localmente
+- [Overview](#overview)
+  - [What I learned](#what-i-learned)
+  - [Useful resources](#useful-resources)
+- [Built with](#built-with)
+- [Features](#features)
+- [Contact](#contact)
 
-1. Abre el archivo `index.html` en tu navegador (doble clic) o sirve el proyecto con un servidor estático.
+<!-- OVERVIEW -->
 
-Ejemplo rápido con Python:
+## Overview
 
-```bash
-# Python 3
-python -m http.server 8000
-# luego abre http://localhost:8000
-```
+      Aprendí a volver a usar CSS Grid, lo cual me ayudó a desbloquear una manera diferente de ver los layouts y a dominar un poco el uso de Grid.
+      También reforcé conceptos de diseño responsivo, manejo de imágenes de fondo con `object-fit`, y el uso de variables CSS (custom properties) para facilitar el mantenimiento del proyecto.
+![screenshot](thumbnail.jpg)
 
-## Estructura del proyecto
+      - Semantic HTML5 markup
+      - CSS custom properties (variables)
+      - CSS Grid
+      - Flexbox
+      - Google Fonts
+      - Responsive design with media queries
+<!--
+- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+-->
 
-- `index.html` - HTML principal.
-- `style.css` - Estilos del proyecto.
-- `resources/` - Imágenes y assets.
-- `design/` - Referencias de diseño (si aplica).
+### Built with
 
-## Notas
+<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- Layout basado en CSS Grid y contenedores `.container` para cada miembro.
-- Media queries para adaptar el diseño en 1100px, 700px y 400px.
-- Ajustes de accesibilidad: revisa contraste de colores y atributos `alt` en imágenes.
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
 
-## Cómo subir a GitHub (rápido)
+## Features
 
-```bash
-git init
-git add .
-git commit -m "Initial commit - our-team layout"
-git branch -M main
-git remote add origin <TU_REPOSITORIO_URL>
-git push -u origin main
-```
+<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-Si quieres publicar con GitHub Pages:
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges-dashboard) challenge.
 
-```bash
-# en la rama main
-git push origin main
-# configurar GitHub Pages desde la configuración del repo
-```
+## Acknowledgements
 
-## Créditos
+<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-Hecho por ti — ¡listo para subir a GitHub! ✨
+## Author
 
-## Licencia
-
-MIT
+      - GitHub: [ScriptJoss](https://github.com/ScriptJoss)
+- Website [your-website.com](https://{your-web-site-link})
+- GitHub [@your-username](https://{github.com/your-usermame})
